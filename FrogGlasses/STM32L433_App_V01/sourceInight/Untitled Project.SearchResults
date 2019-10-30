@@ -1,0 +1,4 @@
+---- diveRecord Matches (3 in 2 files) ----
+storageTask.c (d:\work_home\frogglasses\stm32l433_app_v01\zqjqr\task):   	diveRecord = mymalloc(SRAMIN,sizeof(diveRecord_t));	
+storageTask.c (d:\work_home\frogglasses\stm32l433_app_v01\zqjqr\task)://	myfree(SRAMIN,diveRecord);
+storageTask.h (d:\work_home\frogglasses\stm32l433_app_v01\zqjqr\task):extern diveRecord_t *diveRecord;

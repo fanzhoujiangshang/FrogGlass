@@ -1,0 +1,12 @@
+---- User_IAP_Loop Matches (11 in 4 files) ----
+Flash_if.c (d:\work_home\frogglasses\stm32l431_bootloader_v02\src\app):void User_IAP_Loop(void)
+Flash_if.h (d:\work_home\frogglasses\stm32l431_bootloader_v02\inc\app):void User_IAP_Loop(void);
+Main.c (d:\work_home\frogglasses\stm32l431_bootloader_v02\src):	User_IAP_Loop();
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<BR>[Called By]<UL><LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;User_IAP_Loop
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<BR>[Called By]<UL><LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;User_IAP_Loop
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<BR>[Called By]<UL><LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;User_IAP_Loop
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<P><STRONG><a name="[b9]"></a>User_IAP_Loop</STRONG> (Thumb, 214 bytes, Stack size 40 bytes, flash_if.o(i.User_IAP_Loop))
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<BR><BR>[Stack]<UL><LI>Max Depth = 200<LI>Call Chain = User_IAP_Loop &rArr; LCD_Fill &rArr; LCD_Address_Set &rArr; LCD_Write_Data &rArr; MX_SPI1_Send &rArr; HAL_SPI_Transmit &rArr; SPI_EndRxTxTransaction &rArr; SPI_WaitFifoStateUntilTimeout
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<BR>[Called By]<UL><LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;User_IAP_Loop
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<BR>[Called By]<UL><LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;User_IAP_Loop
+STM32L431CCT6_bootloader.htm (d:\work_home\frogglasses\stm32l431_bootloader_v02\mdk-arm\stm32l431cct6_bootloader):<LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;User_IAP_Loop
